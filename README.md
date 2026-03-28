@@ -84,7 +84,7 @@ An interactive script that takes user input (name, favourite FOSS project, and b
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/AgrimKarmakar/oss-audit-24MIP10090.git
+git clone https://github.com/Agrim500-svg/oss-audit--24MIP10090-
 ```
 
 **2. Navigate to the project directory:**
