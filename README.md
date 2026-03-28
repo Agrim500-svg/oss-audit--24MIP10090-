@@ -25,13 +25,12 @@ oss-audit-24MIP10090/
 │
 ├── README.md                        # Project overview and instructions (this file)
 │
-├── scripts/
-│   ├── script1_system_identity.sh          # Script 1: System Identity Report
-│   ├── script2_foss_package_inspector.sh   # Script 2: FOSS Package Inspector
-│   ├── script3_disk_permission_auditor.sh  # Script 3: Disk and Permission Auditor
-│   ├── script4_log_analyzer.sh             # Script 4: Log File Analyzer
-│   └── script5_manifesto_generator.sh      # Script 5: Open Source Manifesto Generator
-│
+├── script1_system_identity.sh          # Script 1: System Identity Report
+├── script2_foss_package_inspector.sh   # Script 2: FOSS Package Inspector
+├── script3_disk_permission_auditor.sh  # Script 3: Disk and Permission Auditor
+├── script4_log_analyzer.sh             # Script 4: Log File Analyzer
+└── script5_manifesto_generator.sh      # Script 5: Open Source Manifesto Generator
+
 
 ```
 
