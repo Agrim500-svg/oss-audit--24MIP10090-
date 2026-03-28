@@ -2,7 +2,7 @@
 # Script 4: Log File Analyzer
 # Author: Agrim Karmakar | Course: Open Source Software
 
-# Usage: ./script4.sh /var/log/syslog error
+# Usage: ./script4_log_analyzer.sh /var/log/syslog error
 
 LOGFILE=$1
 KEYWORD=${2:-error}   # default = error
